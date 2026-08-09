@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Trophy / Award Icon -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M38,30 h32 v22 c0,8.8 -7.2,16 -16,16 c-8.8,0 -16,-7.2 -16,-16 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M48,68 h12 v12 h-12 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M40,80 h28 v6 h-28 Z" />
+    <!-- Handles -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="4"
+        android:pathData="M38,34 C28,34 28,48 38,48 M70,34 C80,34 80,48 70,48" />
+    <!-- Star on Trophy -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,36 l2,5 h5 l-4,3 l2,5 l-5,-3 l-5,3 l2,-5 l-4,-3 h5 Z" />
+</vector>

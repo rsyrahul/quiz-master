@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Master Pro",
+  "description": "Professional Quiz Game Application with real-time timers, performance analytics, leaderboards, achievements, admin question manager, and certificate export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
