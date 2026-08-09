@@ -28,9 +28,9 @@ A modern and interactive quiz application designed to test and improve your know
 
 ## 💻 Getting Started
 
-1. Clone the repository
-2. Open the project folder
-3. Run the application in your browser
+1. Open the project folder
+2. Open index.html in your browser
+3. Start playing the quiz 🎯
 
 ## 👨‍💻 Author
 
